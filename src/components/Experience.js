@@ -17,7 +17,6 @@ const Experience = () => {
             contentArrowStyle={{ borderRight: '7px solid  #EE4B28' }}
             date="October 2020 - present"
             iconStyle={{ background: '#EE4B28', color: '#fff' }}
-            // icon={<WorkIcon />}
           >
             <h3 className="vertical-timeline-element-title">Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">Annalect, Bangalore</h4>
@@ -30,7 +29,6 @@ const Experience = () => {
             contentStyle={{ background: '#EE4B28', color: '#fff' }}
             date="June 2018 - October 2020"
             iconStyle={{ background: '#EE4B28', color: '#fff' }}
-            // icon={<WorkIcon />}
           >
             <h3 className="vertical-timeline-element-title">Senior Associate</h3>
             <h4 className="vertical-timeline-element-subtitle">Annalect, Bangalore</h4>
@@ -43,7 +41,6 @@ const Experience = () => {
             contentStyle={{ background: '#EE4B28', color: '#fff' }}
             date="July 2016 - June 2018"
             iconStyle={{ background: '#EE4B28', color: '#fff' }}
-            // icon={<WorkIcon />}
           >
             <h3 className="vertical-timeline-element-title">Associate</h3>
             <h4 className="vertical-timeline-element-subtitle">Annalect, Bangalore</h4>
@@ -56,7 +53,6 @@ const Experience = () => {
             contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
             date="January 2016 - July 2016"
             iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-            // icon={<WorkIcon />}
           >
             <h3 className="vertical-timeline-element-title">Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Mu Sigma, Bangalore</h4>
@@ -69,17 +65,15 @@ const Experience = () => {
             contentStyle={{ background: 'blue', color: '#fff' }}
             date="July 2012 - January 2016"
             iconStyle={{ background: 'blue', color: '#fff' }}
-            // icon={<SchoolIcon />}
           >
             <h3 className="vertical-timeline-element-title">Social Media Head, SAE</h3>
-            <h4 className="vertical-timeline-element-subtitle">Some content here</h4>
+            <h4 className="vertical-timeline-element-subtitle">Manipal Institute of Technology</h4>
             <p>
-              Strategy, Social Media
+              Some content here
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
-            // icon={<StarIcon />}
           />
         </VerticalTimeline>
       </div>

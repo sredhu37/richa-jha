@@ -169,4 +169,9 @@
 
 .contactIcon {
   margin: 30px;
+  transition: 0.5s;
+}
+
+.contactIcon:hover {
+  box-shadow: 5px 5px #EE4B28;
 }
