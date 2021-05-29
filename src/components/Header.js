@@ -6,9 +6,9 @@ const Header = () => {
 
   const toggleMenu = () => {
     console.log("Toggle")
-    if (menuItemsClassName == 'rightMenuItems') {
+    if (menuItemsClassName === 'rightMenuItems') {
       setMenuItemsClassName('rightMenuItemsExpanded')
-    } else if (menuItemsClassName == 'rightMenuItemsExpanded') {
+    } else if (menuItemsClassName === 'rightMenuItemsExpanded') {
       setMenuItemsClassName('rightMenuItems')
     }
   }

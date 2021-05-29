@@ -148,6 +148,7 @@
   width: 60%;
   text-align: justify;
   color: #FBCEC2;
+  padding: 100px;
 }
 
 .Experience {
@@ -164,7 +165,7 @@
 
 .Skills {
   color: #999999;
-  padding: 50px;
+  padding: 100px;
 }
 
 .Skills hr {
@@ -187,6 +188,10 @@
   width: 20%;
   margin: 30px;
   min-width: 200px;
+}
+
+.experienceContent {
+  text-align: justify;
 }
 
 .Contact {
