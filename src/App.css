@@ -174,11 +174,6 @@
   height: 0;
 }
 
-.Skills .inlineListItem {
-  display: inline-block;
-  margin: 10px;
-}
-
 .Skills ul {
   list-style-type: none;
 }

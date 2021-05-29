@@ -5,18 +5,11 @@ const Skills = () => {
   return (
     <div className='Skills'>
       <a id="skills" />
-      <div className='skillsHeading'>
+      <div>
         <h2>SKILLS EXPERTISE</h2>
         <hr />
-        <br />
-        {/* <ul>
-          <li className='inlineListItem'>1 - Basic</li>
-          <li className='inlineListItem'>2 - Novice</li>
-          <li className='inlineListItem'>3 - Intermediate</li>
-          <li className='inlineListItem'>4 - Advanced</li>
-          <li className='inlineListItem'>5 - Expert</li>
-        </ul> */}
       </div>
+      <br />
       <h4>SKILLS</h4>
       <div>
         <ul>
@@ -44,6 +37,17 @@ const Skills = () => {
           <li className='skill'> Python <ProgressBar variant="warning" now={60} /></li>
         </ul>
       </div>
+      <br />
+      <h4>CERTIFICATIONS</h4>
+      <div>
+        <ul>
+          <li className='skill'> Introduction to Google Data Studio <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Datorama - 3 levels (Specialist, Expert and Champion) <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Salesforce Fundamentals of Digital Marketing <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Google Digital Unlocked <ProgressBar variant="success" now={100} /></li>
+        </ul>
+      </div>
+      <br />
     </div>
   );
 }
