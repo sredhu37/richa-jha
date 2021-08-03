@@ -34,7 +34,6 @@ const Skills = () => {
           <li className='skill'> R <ProgressBar variant="warning" now={60} /></li>
           <li className='skill'> SQL <ProgressBar variant="warning" now={60} /></li>
           <li className='skill'> Big Query <ProgressBar variant="warning" now={60} /></li>
-          <li className='skill'> Python <ProgressBar variant="warning" now={60} /></li>
         </ul>
       </div>
       <br />
