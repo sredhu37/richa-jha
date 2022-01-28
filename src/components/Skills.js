@@ -10,40 +10,34 @@ const Skills = () => {
         <hr />
       </div>
       <br />
-      <h4>SKILLS</h4>
-      <div>
-        <ul>
-          <li className='skill'> Data Analysis <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> Data Visualization <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> Communication <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> Reporting and Quality Assessment <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> Client Relationship Management <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> Business Intelligence <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> KPI Dashboards <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> Leadership <ProgressBar variant="info" now={80} /></li>
-        </ul>
-      </div>
-      <br />
       <h4>TOOLS</h4>
       <div>
         <ul>
-          <li className='skill'> Datorama <ProgressBar variant="success" now={100} /></li>
-          <li className='skill'> MS Excel <ProgressBar variant="success" now={100} /></li>
-          <li className='skill'> Automation on Excel <ProgressBar variant="success" now={100} /></li>
-          <li className='skill'> Alteryx <ProgressBar variant="info" now={80} /></li>
-          <li className='skill'> R <ProgressBar variant="warning" now={60} /></li>
-          <li className='skill'> SQL <ProgressBar variant="warning" now={60} /></li>
-          <li className='skill'> Big Query <ProgressBar variant="warning" now={60} /></li>
+          <li className='skill'> Kubernetes application deployment <ProgressBar variant="info" now={80} /></li>
+          <li className='skill'> GitOps (Flux) <ProgressBar variant="info" now={80} /></li>
+          <li className='skill'> Helm <ProgressBar variant="info" now={80} /></li>
+          <li className='skill'> Docker <ProgressBar variant="info" now={80} /></li>
+          <li className='skill'> CI/CD (Jenkins) <ProgressBar variant="info" now={80} /></li>
+          <li className='skill'> Operating Private Cloud <ProgressBar variant="warning" now={60} /></li>
+          <li className='skill'> Python and Bash scripting <ProgressBar variant="info" now={80} /></li>
+          <li className='skill'> Packer and Ansible <ProgressBar variant="warning" now={60} /></li>
         </ul>
       </div>
-      <br />
-      <h4>CERTIFICATIONS</h4>
+      <h4>COURSE CERTIFICATIONS</h4>
       <div>
         <ul>
-          <li className='skill'> Introduction to Google Data Studio <ProgressBar variant="success" now={100} /></li>
-          <li className='skill'> Datorama - 3 levels (Specialist, Expert and Champion) <ProgressBar variant="success" now={100} /></li>
-          <li className='skill'> Salesforce Fundamentals of Digital Marketing <ProgressBar variant="success" now={100} /></li>
-          <li className='skill'> Google Digital Unlocked <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Go Essential Training - LinkedIn <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Learning Go - LinkedIn <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Google Cloud Platform Essential Training for Administrators - LinkedIn <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Learning Hashicorp Packer - LinkedIn <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Kubernetes: Monitoring with Prometheus - LinkedIn <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Kubernetes: Package management with Helm - LinkedIn <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Learning Terraform - LinkedIn <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> AWS fundamentals for System Administrators - Pluralsight <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> RESTful Web Services with Node.js and Express - Pluralsight <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> DevOps Foundations - Lynda.com <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Learning Ansible - Lynda.com <ProgressBar variant="success" now={100} /></li>
+          <li className='skill'> Docker and Containers: The Big Picture - Pluralsight <ProgressBar variant="success" now={100} /></li>
         </ul>
       </div>
       <br />

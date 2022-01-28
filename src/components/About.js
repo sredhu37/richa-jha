@@ -25,9 +25,18 @@ const About = () => {
       <hr />
       <div className="aboutContent">
         <p>
-          5 years experienced Data Analytics professional and a Datorama specialist possessing a prolific track record of creating visualization dashboards, harmonizing data across different media channels like DV360, DCM, social media platforms and viewability platforms.
-          Unafraid of getting her hands dirty with data validation and transforming the raw data into insights useful for the clients in forms of efficient reports. 
-          Loves working in fast-paced environment and constantly looks out for developing the analytical mindset.
+          After completing B.Tech. in Computer Science and Engineering from Manipal Institute of Technology, 
+          I started my career as a Software Engineer where I worked on developing and maintaining applications using Node.js, Express.js and React.js. 
+        </p>
+        <p>
+          Then I got curious about the deployment of those applications and hence got introduced to CI/CD. 
+          After creating Jenkins CI/CD pipelines for about 1 year, I felt the need to understand how Jenkins as a Service works in Kubernetes.
+        </p>
+        <p>
+          Now I think it's time for me to go deeper and understand the underlying infrastructure of how kubernetes is setup in public clouds. Therefore, I am currently gaining knowledge about the same.
+        </p>
+        <p>
+          Apart from work, I love to play Cricket with my 3 year old son and hum classic Bollywood songs while working.
         </p>
       </div>
       {/* <XYPlot width={300} height={300}>

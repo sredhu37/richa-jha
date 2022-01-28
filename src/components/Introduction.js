@@ -6,9 +6,9 @@ const Introduction = () => {
       <a id="introduction" />
       <div className='introductionImage'></div>
       <div className='introductionContent'>
-        <h1>HI! I'M RICHA</h1>
+        <h1>HI! I'M SUNNY</h1>
         <hr />
-        <p>I love to unleash the business insights in Digital Marketing from a pile of raw data</p>
+        <p>On top of 6 years of combined experience in the areas of Software Development and DevOps, I have a can-do attitude and a history of quick ramp-up.</p>
         <a href="#about"><button>ABOUT ME</button></a>
       </div>
     </div>

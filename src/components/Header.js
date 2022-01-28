@@ -17,7 +17,7 @@ const Header = () => {
     <div className='Header'>
       <div className='floatMenuLeft'>
         <ul className='leftMenuItems'>
-          <a href='#introduction'><li className='menuItem headerName'>RICHA JHA</li></a>
+          <a href='#introduction'><li className='menuItem headerName'>SUNNY REDHU</li></a>
         </ul>
       </div>
       <div className='floatMenuRight'>
